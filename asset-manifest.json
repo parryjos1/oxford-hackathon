@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oxford-hackathon/static/css/main.69c5d212.chunk.css",
+    "main.js": "/oxford-hackathon/static/js/main.070e88c7.chunk.js",
+    "main.js.map": "/oxford-hackathon/static/js/main.070e88c7.chunk.js.map",
+    "runtime~main.js": "/oxford-hackathon/static/js/runtime~main.c92905d4.js",
+    "runtime~main.js.map": "/oxford-hackathon/static/js/runtime~main.c92905d4.js.map",
+    "static/js/2.b5f2d3cd.chunk.js": "/oxford-hackathon/static/js/2.b5f2d3cd.chunk.js",
+    "static/js/2.b5f2d3cd.chunk.js.map": "/oxford-hackathon/static/js/2.b5f2d3cd.chunk.js.map",
+    "index.html": "/oxford-hackathon/index.html",
+    "precache-manifest.37077664b2225e74617f01906eb02b14.js": "/oxford-hackathon/precache-manifest.37077664b2225e74617f01906eb02b14.js",
+    "service-worker.js": "/oxford-hackathon/service-worker.js",
+    "static/css/main.69c5d212.chunk.css.map": "/oxford-hackathon/static/css/main.69c5d212.chunk.css.map",
+    "static/media/index.css": "/oxford-hackathon/static/media/leftLightening.0cbd653d.png"
+  }
+}
